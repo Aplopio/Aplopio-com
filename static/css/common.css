@@ -15,10 +15,10 @@ legend{color:#000;}
 body{font-family:sans-serif;}
 table{font-size:inherit;}
 pre,code,kbd,samp,tt{font-family:monospace;line-height:100%;}
-body{font-size:18px;line-height:1.8;overflow:scroll;overflow-x:auto;overflow-y:scroll;}
+body{font-size:18px;font-family:"proxima-nova",helvetica,sans-serif;line-height:1.8;overflow:scroll;overflow-x:auto;overflow-y:scroll;}
 h1{font-size:3.5em;text-align:center;line-height:1.5em;}
 h2{font-size:1.2em;margin-bottom:1em;}
-h1,h2,h3,h4{font-family:Georgia,"Times New Roman",Times,Serif;}
+h1,h2,h3,h4{font-family:"kepler-std",Georgia,"Times New Roman",Times,Serif;}
 div.content{line-height:1.8em;}
 .wrapper{text-align:left;width:700px;margin:20px auto 150px;}.wrapper p{margin-bottom:1em;}
 .wrapper hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:0 0 1em;padding:0;}
