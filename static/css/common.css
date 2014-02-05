@@ -6012,6 +6012,12 @@ td.visible-print {
 .align-center {
   text-align: center;
 }
+.tagline {
+  margin-top: 2em;
+  font-size: 1.2em;
+  font-weight: 100;
+  letter-spacing: 5px;
+}
 h1,
 h2,
 h3 {
